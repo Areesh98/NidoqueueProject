@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553155105258",
+    "project_id": "testdb-33adf",
+    "storage_bucket": "testdb-33adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553155105258:android:35639c1a2d6722f87be293",
+        "android_client_info": {
+          "package_name": "com.example.nidoqueueproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553155105258-indnr1ee3idd6b37aj2fvl9q2brma46q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1UQOCY6E45LTpOGptvWTAAzTFsJOTjik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553155105258-indnr1ee3idd6b37aj2fvl9q2brma46q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
